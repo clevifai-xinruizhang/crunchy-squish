@@ -1,0 +1,17 @@
+{
+  "name": "脆皮捏捏工坊",
+  "short_name": "脆皮捏捏",
+  "description": "可以捏的 3D 脆皮捏捏：水蜜桃、草莓、松露巧克力。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef3ff",
+  "theme_color": "#d9eeff",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
